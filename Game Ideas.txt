@@ -1,0 +1,11 @@
+Game Ideas
+Timer runs at the beginning of the game, and you have a certain amount of time to move blocks before the simulation starts.
+
+You have to move blocks to make one or many of the blocks 'alive' by the end of a certain number of cycles.
+
+Game ides:
+Indicator of the rules in each level somewhere on screen
+Rules change across levels to affect the difficulty of different problems.
+Player can be a part of life
+Walls where player can’t push blocks, but they can move once simulation starts
+Maybe a timer
